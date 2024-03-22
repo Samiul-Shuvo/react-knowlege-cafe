@@ -1,0 +1,43 @@
+[
+    {
+      "id": "123456",
+      "cover_img": "https://i.ibb.co/HYdT6ty/e1.jpg",
+      "title": "Exploring the Mysteries of Quantum Computing",
+      "author": "Dr. Cassandra Johnson",
+      "author_img": "https://i.ibb.co/MDL4yVm/pi1.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": 10,
+      "hashtags": ["#QuantumComputing", "#Technology", "#Science"]
+    },
+    {
+      "id": "789012",
+      "cover_img": "https://i.ibb.co/WGq3H7R/e2.png",
+      "title": "Mastering Culinary Delights: A Chef's Journey",
+      "author": "Chef Giovanni Rossi",
+      "author_img": "https://i.ibb.co/72RW90C/pi2.png",
+      "posted_date": "2024-03-10",
+      "reading_time": 8,
+      "hashtags": ["#CulinaryArts", "#Cooking", "#Foodie"]
+    },
+    {
+      "id": "345678",
+      "cover_img": "https://i.ibb.co/BZC33FS/e3.jpg",
+      "title": "Unraveling the Enigma of Deep Learning",
+      "author": "Dr. Emily Chen",
+      "author_img": "https://i.ibb.co/ZxT7THC/pi3.png",
+      "posted_date": "2024-03-05",
+      "reading_time": 12,
+      "hashtags": ["#DeepLearning", "#AI", "#Technology"]
+    },
+    {
+      "id": "901234",
+      "cover_img": "https://i.ibb.co/QQ92yYb/e4.png",
+      "title": "A Journey Through Time: Ancient Civilizations",
+      "author": "Professor Marcus Edwards",
+      "author_img": "https://i.ibb.co/PG6qXM7/pi4.jpg",
+      "posted_date": "2024-02-28",
+      "reading_time": 15,
+      "hashtags": ["#History", "#Archaeology", "#AncientCivilizations"]
+    }
+  ]
+  
